@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "395258548424",
+    "firebase_url": "https://studyw-76ed1-default-rtdb.firebaseio.com",
+    "project_id": "studyw-76ed1",
+    "storage_bucket": "studyw-76ed1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395258548424:android:355d08075923295455d5fd",
+        "android_client_info": {
+          "package_name": "com.example.studyw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395258548424-g7m9tapea4givl308rf77h4ddrigfg5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKdqcLNkiJiVlgzPAoSOeP3G2yOC8FPTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395258548424-fv23741aghngc9fd381hrrcdei93q181.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
